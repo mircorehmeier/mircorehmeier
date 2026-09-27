@@ -22,6 +22,12 @@ Co-founded [Gesturas Technology Group](https://gestechgroup.com/) together with 
 
 Building [Brasilll](https://brasilll.com/), a multilingual platform for exploring Brazil through destinations, experiences and practical travel planning.
 
+### Multilingual SEO Audit
+
+Building [Multilingual SEO Audit](https://seo-audit.rehmeier.es/), an open-source technical SEO auditing tool for multilingual websites. It checks hreflang, canonicals, titles and meta descriptions, social metadata, structured data and crawl issues, with CSV and JSON exports — without relying on an opaque SEO score.
+
+[View the source on GitHub](https://github.com/mircorehmeier/multilingual-seo-audit).
+
 ### Independent digital publishing
 
 Running and developing established digital publications and online projects across several markets and languages.
