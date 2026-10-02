@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rehmeier.es/">
+    <img src="https://rehmeier.es/images/branding/mr-logo-final.png" width="120" alt="MR — Mirco Rehmeier">
+  </a>
+</p>
+
 # Mirco Rehmeier
 
 Digital product builder & technology strategist working across **applied AI, SaaS, software, SEO and growth**.
